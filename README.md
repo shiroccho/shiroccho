@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shiroccho/shiroccho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/shiroccho/shiroccho">
+    <img src="https://komarev.com/ghpvc/?username=shiroccho" alt="shiroccho" />
+  </a>
+</p>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiroccho&theme=darcula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiroccho&theme=darcula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiroccho&theme=darcula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiroccho&theme=darcula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiroccho&theme=darcula&utcOffset=8) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shiroccho&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
